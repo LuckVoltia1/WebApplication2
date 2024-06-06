@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebApplication2\\WebApplication2.vbproj|c:\\users\\anjal\\desktop\\new folder\\webapplication2\\webapplication2\\about.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebApplication2\\WebApplication2.vbproj|solutionrelative:webapplication2\\about.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebApplication2\\WebApplication2.vbproj|c:\\users\\anjal\\desktop\\new folder\\webapplication2\\webapplication2\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebApplication2\\WebApplication2.vbproj|solutionrelative:webapplication2\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebApplication2\\WebApplication2.vbproj|c:\\users\\anjal\\desktop\\new folder\\webapplication2\\webapplication2\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebApplication2\\WebApplication2.vbproj|solutionrelative:webapplication2\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\WebApplication2\\About.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication2\\About.aspx.vb",
+              "ToolTip": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\WebApplication2\\About.aspx.vb",
+              "RelativeToolTip": "WebApplication2\\About.aspx.vb",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwFQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-06T06:53:30.66Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\WebApplication2\\About.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\About.aspx",
+              "ToolTip": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\WebApplication2\\About.aspx",
+              "RelativeToolTip": "WebApplication2\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T06:52:41.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\WebApplication2\\Contact.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication2\\WebApplication2\\Contact.aspx",
+              "RelativeToolTip": "WebApplication2\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T06:59:10.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
